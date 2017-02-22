@@ -1,0 +1,13 @@
+<resources>
+<string name="app_name">Rectangle Calculator</string>
+<string name="rectangle_calculator">Rectangle Calculator</string>
+<string name="calculate">Calculate</string>
+<string name="width">Width</string>
+<string name="height">Height</string>
+<string name="area">Calculated Area</string>
+<string name="perimeter">Calculated Perimeter</string>
+<string name="dummy_button">Dummy Button</string>
+<string name="dummy_content">DUMMY\nCONTENT</string>
+<string name="x">X</string>
+<string name="y">Y</string>
+</resources>

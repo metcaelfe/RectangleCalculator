@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="bgColourMain">#82dcf4</color>
+    <color name="redTrans">#a8ef1616</color>
+    <color name="greenLa">#0f2b3c</color>
+    <color name="greenTrans">#c5125822</color>
+    <color name="holoGreyBlue">#a8859dea</color>
+    <color name="holoGreyGreen">#c53d6b48</color>
+</resources>
