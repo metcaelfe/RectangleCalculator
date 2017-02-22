@@ -1,4 +1,4 @@
-package test.metcaelfe.rectanglecalculator;
+package edu.metcaelfe.rectanglecalculator;
 
 import android.support.constraint.ConstraintLayout;
 import android.support.v7.app.AppCompatActivity;
